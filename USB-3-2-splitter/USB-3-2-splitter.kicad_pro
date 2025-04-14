@@ -577,7 +577,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../JLCPCB manufacturing files/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
